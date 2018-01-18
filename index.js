@@ -1,1 +1,1 @@
-var recipes = new Object(AAA:170);
+var recipes = new Object({AAA:170});
